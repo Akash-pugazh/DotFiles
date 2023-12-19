@@ -1,0 +1,13 @@
+alias ls="lsd"
+alias lst="lsd --tree"
+alias lsla="ls -la"
+alias rm="rm -I"
+alias cls="clear"
+
+alias vim="nvim"
+
+alias connm="bluetoothctl connect D8:49:E2:B2:07:8E"
+alias disconnm="bluetoothctl disconnect D8:49:E2:B2:07:8E"
+
+alias conna="bluetoothctl connect 41:42:C1:24:0F:F0"
+alias disconna="bluetoothctl disconnect 41:42:C1:24:0F:F0"

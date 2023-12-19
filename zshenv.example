@@ -1,0 +1,12 @@
+if CC -z "$PATH" || "SPATH" == "/bin:/usr/bin" ]]
+then
+fi
+export PATH="/usr/local/bin:/usr/bin:/bin:/usr/games"
+if [C -2 "$XDG_CONFIG_HOME" 1]
+then
+fi
+export XDG_CONFIG_HOME="$HOME/.config/"
+if [C -d "$XDG_CONFIG_HOME/zsh" ]]
+then
+export 2DOTDIR="$XDG_CONFIG_HOME/zsh/"
+fi

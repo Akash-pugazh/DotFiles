@@ -1,0 +1,202 @@
+sw_volume: 100
+audio_device_state:1:Pipewire audio server
+audio_device_state:1:my_fifo
+state: stop
+current: 11
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:AangilaPadalgal/Serhat Durmus, Zerrin - Hislerim.mp3
+1:AangilaPadalgal/Harry Styles - Watermelon Sugar.mp3
+2:AangilaPadalgal/Linked Horizon - Guren No Yumiya.mp3
+3:AangilaPadalgal/Lil Nas X - MONTERO (Call Me By Your Name) - SATAN'S EXTENDED VERSION.mp3
+4:AangilaPadalgal/SAINt JHN, Imanbek - Roses - Imanbek Remix.mp3
+5:AangilaPadalgal/vaultboy - everything sucks.mp3
+6:AangilaPadalgal/JONY - Love Your Voice.mp3
+7:AangilaPadalgal/Jaymes Young - Infinity.mp3
+8:AangilaPadalgal/NUEKI, TOLCHONOV - Mexican Phonk Eki.mp3
+9:AangilaPadalgal/ZAYN, Sia - Dusk Till Dawn (feat. Sia) - Radio Edit.mp3
+10:AangilaPadalgal/SlowTune - Copines.mp3
+11:AangilaPadalgal/Farizki, Sapientdreams - Past Lives.mp3
+12:AangilaPadalgal/Katy Perry - Firework.mp3
+13:AangilaPadalgal/Starla Edney - Queen of Hearts.mp3
+14:AangilaPadalgal/Ashnikko, Princess Nokia - Slumber Party (feat. Princess Nokia).mp3
+15:AangilaPadalgal/Hiroyuki Sawano - Xl-Tt.mp3
+16:AangilaPadalgal/Coldplay - Hymn for the Weekend.mp3
+17:AangilaPadalgal/Eminem - Not Afraid.mp3
+18:AangilaPadalgal/XXXTENTACION - SAD!.mp3
+19:AangilaPadalgal/SyKo - #BrooklynBloodPop!.mp3
+20:AangilaPadalgal/Sunlike Brothers, LANNÉ, Courtney Drummey - I Kissed A Girl.mp3
+21:AangilaPadalgal/CKay - love nwantiti (ah ah ah).mp3
+22:AangilaPadalgal/Sia - Snowman.mp3
+23:AangilaPadalgal/SiM - The Rumbling.mp3
+24:AangilaPadalgal/Lewis Hanton - Ava (Sped up).mp3
+25:AangilaPadalgal/Hiroyuki Sawano - Attack on Titan.mp3
+26:AangilaPadalgal/Dior - Положение - 2 Remix.mp3
+27:AangilaPadalgal/Elley Duhé - MIDDLE OF THE NIGHT.mp3
+28:AangilaPadalgal/Justin Bieber - Love Yourself.mp3
+29:AangilaPadalgal/Linked Horizon - Shinzo wo Sasageyo!.mp3
+30:AangilaPadalgal/Eduardo Luzquiños, RH Music - Rockabye Slowed - Remix.mp3
+31:AangilaPadalgal/XXXTENTACION - Revenge.mp3
+32:AangilaPadalgal/SENSE - Where Have You Been.mp3
+33:AangilaPadalgal/Tom Odell - Another Love.mp3
+34:AangilaPadalgal/Hiroyuki Sawano - Call of Silence.mp3
+35:AangilaPadalgal/Katy Perry - Harleys In Hawaii.mp3
+36:AangilaPadalgal/LISA - MONEY.mp3
+37:AangilaPadalgal/GANK - Resurrection.mp3
+38:AangilaPadalgal/Superfruit - GUY.exe.mp3
+39:AangilaPadalgal/Indila - Tourner Dans Le Vide.mp3
+40:AangilaPadalgal/Duncan Laurence, FLETCHER - Arcade (feat. FLETCHER).mp3
+41:AangilaPadalgal/Neoni - DARKSIDE.mp3
+42:AangilaPadalgal/Dua Lipa - Levitating.mp3
+43:AangilaPadalgal/Dyan Dxddy - Sigma.mp3
+44:AangilaPadalgal/The Kid LAROI, Justin Bieber - STAY (with Justin Bieber).mp3
+45:AangilaPadalgal/Hiroyuki Sawano - Eren Zahyo.mp3
+46:AangilaPadalgal/5 Seconds of Summer - Teeth.mp3
+47:AangilaPadalgal/CARYS - Princesses Don't Cry.mp3
+48:AangilaPadalgal/Serena - Safari.mp3
+49:AangilaPadalgal/Imagine Dragons, JID, Arcane, League of Legends - Enemy (with JID) - from the series Arcane League of Legends.mp3
+50:AangilaPadalgal/Lil Nas X, Jack Harlow - INDUSTRY BABY (feat. Jack Harlow).mp3
+51:AangilaPadalgal/Elton John, Dua Lipa, PNAU - Cold Heart - PNAU Remix.mp3
+52:AangilaPadalgal/Miuosh - Anioły.mp3
+53:AangilaPadalgal/Aaron Smith, Luvli, Krono - Dancin - Krono Remix.mp3
+54:AangilaPadalgal/Drake, Travis Scott - Fair Trade (with Travis Scott).mp3
+55:AangilaPadalgal/Confetti - Ghost.mp3
+56:AangilaPadalgal/XXXTENTACION - NUMB.mp3
+57:AangilaPadalgal/DJ Jeeh FDC, MC Menor MT, Yuri Redicopa, Mc Pelé - Puta Mexicana.mp3
+58:AangilaPadalgal/SoulkaOuter - Polozhenie.mp3
+59:AangilaPadalgal/David Guetta, Bebe Rexha, J Balvin - Say My Name.mp3
+60:AangilaPadalgal/ElyOtto - SugarCrash!.mp3
+61:AangilaPadalgal/Ratty Adhiththan - Panda Reprise.mp3
+62:AangilaPadalgal/Joji - worldstar money (interlude).mp3
+63:AangilaPadalgal/Billie Eilish, Khalid - lovely (with Khalid).mp3
+64:AangilaPadalgal/Hiroyuki Sawano - You See Big Girl # T#T.mp3
+65:AangilaPadalgal/INTERWORLD - METAMORPHOSIS.mp3
+66:AangilaPadalgal/aespa - Next Level.mp3
+67:AangilaPadalgal/Halsey - Without Me.mp3
+68:AangilaPadalgal/VTORNIK, Phonk - Money Rain - Phonk Remix.mp3
+69:AangilaPadalgal/NVBR - New Americana.mp3
+70:AangilaPadalgal/blackbear - idfc.mp3
+71:AangilaPadalgal/dhruv - double take.mp3
+72:AangilaPadalgal/Paulz - Balenciaga.mp3
+73:AangilaPadalgal/Stract, Shiloh Dynasty - Losing Interest.mp3
+74:AangilaPadalgal/Marwa Loud - Bad boy.mp3
+75:AangilaPadalgal/Higuchi Ai - 悪魔の子.mp3
+76:AangilaPadalgal/Kesha - Backstabber.mp3
+77:AangilaPadalgal/Hentai Xander - in heat..mp3
+78:AangilaPadalgal/Kanye West - Praise God.mp3
+79:AangilaPadalgal/Loren Gray - Queen.mp3
+80:AangilaPadalgal/BerthCh - One Dancing.mp3
+81:AangilaPadalgal/CKay, Dj Yo!, AX'EL - love nwantiti (feat. Dj Yo! & AX'EL) - Remix.mp3
+82:AangilaPadalgal/JP Saxe, Julia Michaels - If the World Was Ending (feat. Julia Michaels).mp3
+83:AangilaPadalgal/Doja Cat, SZA - Kiss Me More (feat. SZA).mp3
+84:AangilaPadalgal/Dyma - No Lie - Remix.mp3
+85:AangilaPadalgal/Yot Club - YKWIM#.mp3
+86:AangilaPadalgal/The Tech Thieves - Fake.mp3
+87:AangilaPadalgal/4#TOWN (From Disney and Pixar’s Turning Red), Jordan Fisher, Finneas O'Connell, Topher Ngo, Grayson Villanueva, Josh Levi - Nobody Like U.mp3
+88:AangilaPadalgal/BLXCK FRiDAY - SCHIZO.mp3
+89:AangilaPadalgal/Selena Gomez & The Scene - Who Says.mp3
+90:AangilaPadalgal/David Guetta, AFROJACK, Bebe Rexha, Nicki Minaj - Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack).mp3
+91:AangilaPadalgal/Glass Animals - Heat Waves.mp3
+92:AangilaPadalgal/Hd4president - Touch Down 2 Cause Hell (Bow Bow Bow).mp3
+93:AangilaPadalgal/Pitbull, Marc Anthony - Rain Over Me (feat. Marc Anthony).mp3
+94:AangilaPadalgal/Amaarae, Kali Uchis, Moliy - SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy).mp3
+95:AangilaPadalgal/Indila - Ainsi bas la vida.mp3
+96:AangilaPadalgal/Jennifer Lopez, Pitbull - On The Floor.mp3
+97:AangilaPadalgal/Doja Cat - Woman.mp3
+98:AangilaPadalgal/Kodaline - All I Want.mp3
+99:AangilaPadalgal/Alexander Rybak - Fairytale - Extended Mix.mp3
+100:AangilaPadalgal/GroovyRoom, Blue.D, Jhnovr - This Night (feat. Blue.D, Jhnovr).mp3
+101:AangilaPadalgal/Bahari - Savage.mp3
+102:AangilaPadalgal/Hensonn - Sahara.mp3
+103:AangilaPadalgal/Lil Nas X - THATS WHAT I WANT.mp3
+104:AangilaPadalgal/J. Cole, Cults, Amber Coffman - She Knows (feat. Amber Coffman & Cults).mp3
+105:AangilaPadalgal/Ed Sheeran - Bad Habits.mp3
+106:AangilaPadalgal/Higuchi Ai - Akuma no Ko.mp3
+107:AangilaPadalgal/Vitrolic - Jailbreak.mp3
+108:AangilaPadalgal/Friedrich Habetler - Giorno's Theme.mp3
+109:AangilaPadalgal/Egzod, Maestro Chives, Neoni - Royalty.mp3
+110:AangilaPadalgal/Summer Soul - 100 Reasons Why I Love You.mp3
+111:AangilaPadalgal/BLXCK FRiDAY - SOLITARY.mp3
+112:AangilaPadalgal/Farizki - One Kiss X I Was Never There.mp3
+113:AangilaPadalgal/Duncan Laurence - Arcade.mp3
+114:AangilaPadalgal/ZWE1HVNDXR, yatashigang - LOVELY BASTARDS.mp3
+115:AangilaPadalgal/Dybbukk - I'm Only a Fool for You.mp3
+116:AangilaPadalgal/Hard Lights, Moonshine, Marnik, Ember Island - Umbrella (with Marnik).mp3
+117:AangilaPadalgal/DMAD - World Is Spinning.mp3
+118:AangilaPadalgal/Sione - Night Work.mp3
+119:AangilaPadalgal/Dido - Thank You.mp3
+120:AangilaPadalgal/Sub Urban, Bella Poarch - INFERNO.mp3
+121:AangilaPadalgal/Witt Lowry, Ava Max - Into Your Arms (feat. Ava Max).mp3
+122:AangilaPadalgal/DVRST - Close Eyes.mp3
+123:AangilaPadalgal/INSTASAMKA - Отключаю телефон - Slowed.mp3
+124:AangilaPadalgal/Olivia Rodrigo - traitor.mp3
+125:AangilaPadalgal/Ricky Rich, Dardan, DJ Gimi-O - Habibi - Albanian Remix.mp3
+126:AangilaPadalgal/Olivia Rodrigo - good 4 u.mp3
+127:AangilaPadalgal/Raaban, Tungevaag, Luana Kiara - Bad Boy (feat. Luana Kiara).mp3
+128:AangilaPadalgal/MidnightDrives - Feel your eyes, all over me...No lie.mp3
+129:AangilaPadalgal/Oliver Tree - Life Goes On.mp3
+130:AangilaPadalgal/Cheriimoya, Sierra Kidd - Living Life, In The Night.mp3
+131:AangilaPadalgal/Georgian Folk - Gandagana Trap Remix Edit - Trap Remix Edit.mp3
+132:AangilaPadalgal/U#NITISH - Baby I Got Issues.mp3
+133:AangilaPadalgal/Seori - Trigger.mp3
+134:AangilaPadalgal/David Guetta, Skylar Grey - Shot Me Down (feat. Skylar Grey) - Radio Edit.mp3
+135:AangilaPadalgal/Lucian, Amanda Yang - Here.mp3
+136:AangilaPadalgal/Sia, Diplo, Labrinth, LSD - Genius (feat. Sia, Diplo, and Labrinth).mp3
+137:AangilaPadalgal/Eminem - Venom - Music From The Motion Picture.mp3
+138:AangilaPadalgal/Lost Sky, Chris Linton - Fearless Pt. II.mp3
+139:AangilaPadalgal/MIIA - Dynasty.mp3
+140:AangilaPadalgal/John Newman - Love Me Again.mp3
+141:AangilaPadalgal/payton - RICH BOY.mp3
+142:AangilaPadalgal/Red Velvet - Peek-A-Boo.mp3
+143:AangilaPadalgal/dosii - the one exists in my memories.mp3
+144:AangilaPadalgal/Kali Uchis - telepatía.mp3
+145:AangilaPadalgal/Akano - #Blue Bird (From ##Naruto Shippuden##)#.mp3
+146:AangilaPadalgal/Panic! At The Disco - House of Memories.mp3
+147:AangilaPadalgal/DHARIA - August Diaries.mp3
+148:AangilaPadalgal/salem ilese, TOMORROW X TOGETHER, Alan Walker - PS5 (with TOMORROW X TOGETHER & Alan Walker).mp3
+149:AangilaPadalgal/DVRST - Close Eyes - Slowed + Reverb.mp3
+150:AangilaPadalgal/The Same Persons - Versace.mp3
+151:AangilaPadalgal/Bella Poarch - Build a Bitch.mp3
+152:AangilaPadalgal/Melanie Martinez - Play Date.mp3
+153:AangilaPadalgal/Måneskin - Beggin'.mp3
+154:AangilaPadalgal/DJ Fronteo - Fashion Week - Remix.mp3
+155:AangilaPadalgal/Måneskin - I WANNA BE YOUR SLAVE.mp3
+156:AangilaPadalgal/Retronaut, Salvatore Ganacci - Talk.mp3
+157:AangilaPadalgal/BLXCK FRiDAY - WHO GOT THE PHONK.mp3
+158:AangilaPadalgal/GAYLE - abcdefu.mp3
+159:AangilaPadalgal/BoyWithUke - Toxic.mp3
+160:AangilaPadalgal/Adele - Easy On Me.mp3
+161:AangilaPadalgal/Trinidad Cardona - Dinero.mp3
+162:AangilaPadalgal/The Lumineers - Sleep On The Floor.mp3
+163:AangilaPadalgal/Eduardo Luzquiños, EZRA - YRN - Remix.mp3
+164:AangilaPadalgal/Ruth B., sped up + slowed, slater - Dandelions - slowed + reverb.mp3
+165:AangilaPadalgal/Eduardo Luzquiños, Uravnobeshen Dikiy - Goodbye - Remix.mp3
+166:AangilaPadalgal/Ikimonogakari - ブルーバード.mp3
+167:AangilaPadalgal/jagger finn - Vas.mp3
+168:AangilaPadalgal/Billie Eilish - Happier Than Ever.mp3
+169:AangilaPadalgal/Fifth Harmony, Kid Ink - Worth It (feat. Kid Ink).mp3
+170:AangilaPadalgal/Jetta, Matstubs - I'd Love To Change The World - Matstubs Remix.mp3
+171:AangilaPadalgal/Justin Bieber, Daniel Caesar, Giveon - Peaches (feat. Daniel Caesar & Giveon).mp3
+172:AangilaPadalgal/Ed Sheeran - Shivers.mp3
+173:AangilaPadalgal/Doja Cat - Need to Know.mp3
+174:AangilaPadalgal/Otnicka, Duke Luke - Peaky Blinder.mp3
+175:AangilaPadalgal/Farruko - Pepas.mp3
+176:AangilaPadalgal/Sub Urban - Cradles.mp3
+177:AangilaPadalgal/Camila Cabello - Don't Go Yet.mp3
+178:AangilaPadalgal/OneRepublic - I Ain't Worried.mp3
+179:AangilaPadalgal/LXRY PXNK, CHMCL SØUP - Loneliness.mp3
+180:AangilaPadalgal/K.Flay - High Enough.mp3
+181:AangilaPadalgal/Sia - Never Give Up.mp3
+182:AangilaPadalgal/Lil Nas X - MONTERO (Call Me By Your Name).mp3
+183:AangilaPadalgal/Fujii Kaze - Shinunoga E-Wa.mp3
+184:AangilaPadalgal/Curtis Waters, Harm Franklin - Stunnin' (feat. Harm Franklin) (Explicit).mp3
+185:AangilaPadalgal/Rushex - RITMO DE MORTE.mp3
+186:AangilaPadalgal/Dsippy - Telefon Sped Up.mp3
+187:AangilaPadalgal/ROSALÍA, Travis Scott - TKN (feat. Travis Scott).mp3
+playlist_end
