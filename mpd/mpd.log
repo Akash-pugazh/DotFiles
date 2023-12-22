@@ -7446,3 +7446,9 @@ Dec 19 21:08 : player: played "AangilaPadalgal/NUEKI, TOLCHONOV - Mexican Phonk 
 Dec 19 21:12 : player: played "AangilaPadalgal/Farizki, Sapientdreams - Past Lives.mp3"
 Dec 19 21:29 : exception: Not playing
 Dec 19 22:24 : exception: Not playing
+Dec 19 23:22 : config: option 'buffer_time' on line 18 was not recognized
+Dec 20 00:48 : config: option 'buffer_time' on line 18 was not recognized
+Dec 20 14:55 : config: option 'buffer_time' on line 18 was not recognized
+Dec 21 16:10 : config: option 'buffer_time' on line 18 was not recognized
+Dec 22 07:04 : config: option 'buffer_time' on line 18 was not recognized
+Dec 22 13:51 : config: option 'buffer_time' on line 18 was not recognized
