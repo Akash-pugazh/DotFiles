@@ -9,6 +9,7 @@ application/x-extension-shtml=userapp-Firefox-0JO4F2.desktop
 application/xhtml+xml=userapp-Firefox-0JO4F2.desktop
 application/x-extension-xhtml=userapp-Firefox-0JO4F2.desktop
 application/x-extension-xht=userapp-Firefox-0JO4F2.desktop
+application/x-zerosize=code.desktop
 
 [Added Associations]
 x-scheme-handler/http=userapp-Firefox-0JO4F2.desktop;
@@ -21,3 +22,4 @@ application/x-extension-shtml=userapp-Firefox-0JO4F2.desktop;
 application/xhtml+xml=userapp-Firefox-0JO4F2.desktop;
 application/x-extension-xhtml=userapp-Firefox-0JO4F2.desktop;
 application/x-extension-xht=userapp-Firefox-0JO4F2.desktop;
+application/x-zerosize=code.desktop;
