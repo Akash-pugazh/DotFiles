@@ -1,7 +1,8 @@
 alias ls="lsd"
 alias lst="lsd --tree"
-alias lsla="ls -la"
-alias rm="rm -I"
+alias lsla="ls -l"
+alias lslaa="ls -la"
+alias rm="rm -rf"
 alias cls="clear"
 
 alias vim="nvim"
