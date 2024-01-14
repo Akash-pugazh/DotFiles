@@ -64,5 +64,5 @@ general = "Alacritty"
 instance = "Alacritty"
 
 [window.padding]
-x = 15
-y = 15
+x = 0
+y = 0

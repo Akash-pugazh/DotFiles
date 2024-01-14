@@ -1,6 +1,13 @@
 #! /bin/sh
 pgrep -x sxhkd > /dev/null || sxhkd &
-bspc monitor -d I II III IV V
+bspc monitor -d 1 2 3 4 5
+# Switch to workspace 6 with Super + 0
+
+# Switch to workspace 7, 8, 9 with Super + {7,8,9}
+bspc config key super-8 --focus 8
+bspc config key super-9 --focus 9
+bspc config key super-0 --focus 0
+
 
 ~/.config/polybar/launch.sh
 

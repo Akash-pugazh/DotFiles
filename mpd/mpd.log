@@ -7577,3 +7577,198 @@ Jan 01 07:01 : config: option 'buffer_time' on line 18 was not recognized
 Jan 01 19:50 : config: option 'buffer_time' on line 18 was not recognized
 Jan 01 20:51 : config: option 'buffer_time' on line 18 was not recognized
 Jan 02 06:56 : config: option 'buffer_time' on line 18 was not recognized
+Jan 02 08:02 : config: option 'buffer_time' on line 18 was not recognized
+Jan 02 09:40 : config: option 'buffer_time' on line 18 was not recognized
+Jan 02 11:33 : config: option 'buffer_time' on line 18 was not recognized
+Jan 02 13:26 : config: option 'buffer_time' on line 18 was not recognized
+Jan 02 20:52 : config: option 'buffer_time' on line 18 was not recognized
+Jan 03 10:52 : config: option 'buffer_time' on line 18 was not recognized
+Jan 03 14:36 : player: played "AangilaPadalgal/aespa - Next Level.mp3"
+Jan 03 14:37 : config: option 'buffer_time' on line 18 was not recognized
+Jan 03 14:39 : player: played "AangilaPadalgal/aespa - Next Level.mp3"
+Jan 03 14:39 : config: option 'buffer_time' on line 18 was not recognized
+Jan 03 14:44 : player: played "AangilaPadalgal/aespa - Next Level.mp3"
+Jan 03 14:45 : config: option 'buffer_time' on line 18 was not recognized
+Jan 03 14:53 : player: played "AangilaPadalgal/aespa - Next Level.mp3"
+Jan 03 14:54 : config: option 'buffer_time' on line 18 was not recognized
+Jan 03 14:55 : player: played "AangilaPadalgal/aespa - Next Level.mp3"
+Jan 03 14:57 : config: option 'buffer_time' on line 18 was not recognized
+Jan 03 15:47 : player: played "AangilaPadalgal/aespa - Next Level.mp3"
+Jan 03 15:53 : player: played "TamilKuthuSongs/Yuvan Shankar Raja, M.M.Manasi, Rubba Bend.Psycho Unit - Stylish Thamizhachi.mp3"
+Jan 03 15:58 : player: played "TamilKuthuSongs/Malathi - Ore Oru Raathirikku.mp3"
+Jan 03 16:03 : player: played "TamilKuthuSongs/Hiphop Tamizha, Ajay Krishnaa, Sathya Narayan - #Oliyum Oliyum (From ##Comali##)#.mp3"
+Jan 03 16:08 : player: played "TamilKuthuSongs/Mani Sharma, Shankar Mahadevan - Ada All Thotta Boopathi.mp3"
+Jan 03 16:12 : player: played "TamilKuthuSongs/A. V. Ramanan, Suchitra - #Yen Chellaperu Apple (From ##Pokkiri##)#.mp3"
+Jan 03 16:13 : config: option 'buffer_time' on line 18 was not recognized
+Jan 03 16:13 : output: Failed to play on "Pipewire audio server" (pipewire): no target node available
+Jan 03 16:14 : player: played "TamilKuthuSongs/A. V. Ramanan, Suchitra - #Yen Chellaperu Apple (From ##Pokkiri##)#.mp3"
+Jan 03 16:14 : player: played "TamilKuthuSongs/Mark, Sakthi Sree, Krishan(Rap), Mahesan - Makkayala.mp3"
+Jan 03 16:37 : player: played "TamilKuthuSongs/Mark, Sakthi Sree, Krishan(Rap), Mahesan - Makkayala.mp3"
+Jan 03 16:41 : player: played "TamilKuthuSongs/Anirudh Ravichander, Adithya RK - #Bae (From ##Don##)#.mp3"
+Jan 03 16:49 : player: played "TamilKuthuSongs/Sundar C. Babu, Shankar Mahadevan - Sambo Siva Sambo.mp3"
+Jan 03 16:54 : player: played "TamilKuthuSongs/Srikanth Deva, Velmurugan, Chinna Ponnu - Aaravalli.mp3"
+Jan 03 16:58 : player: played "TamilKuthuSongs/Thaman S, L. R. Eswari, T. Rajendar, Solar Sai - #Kalasala Kalasala (From ##Osthe##)#.mp3"
+Jan 03 17:01 : player: played "TamilKuthuSongs/Mani Sharma, Mukesh, Saindhavi - Onnu Rendu.mp3"
+Jan 03 20:57 : config: option 'buffer_time' on line 18 was not recognized
+Jan 04 05:51 : config: option 'buffer_time' on line 18 was not recognized
+Jan 04 06:26 : config: option 'buffer_time' on line 18 was not recognized
+Jan 05 09:54 : config: option 'buffer_time' on line 18 was not recognized
+Jan 05 14:45 : player: played "TamilKuthuSongs/Thaman S - Sketch - Theme.mp3"
+Jan 05 14:51 : player: played "TamilKuthuSongs/Harris Jayaraj, Jassie Gift, KK, Shreya Ghoshal, Saindhavi - Andangakka.mp3"
+Jan 05 14:55 : player: played "TamilKuthuSongs/Jakes Bejoy, Shreya Ghoshal, Benny Dayal, Fejo, Joe Paul - #Kalapakkaara (From ##King of Kotha##)#.mp3"
+Jan 05 14:59 : player: played "TamilKuthuSongs/Anirudh Ravichander, Gana Balachandar - Vaathi Coming.mp3"
+Jan 05 15:05 : player: played "TamilKuthuSongs/A.R. Rahman, Devan Ekambaram, Yugendran - Oh Maria.mp3"
+Jan 05 15:09 : player: played "TamilKuthuSongs/Anirudh Ravichander - Udhungada Sangu.mp3"
+Jan 05 15:12 : player: played "TamilKuthuSongs/Santhosh Narayanan - #Maatna Gaali (From ##Gulu Gulu##)#.mp3"
+Jan 05 15:18 : player: played "TamilKuthuSongs/Sichith, Dharshana - Karuppu Perazhaga.mp3"
+Jan 05 15:19 : player: played "TamilKuthuSongs/Vijay Antony, Sangeetha Rajeshwaran - Dailamo Dailamo.mp3"
+Jan 05 15:24 : player: played "TamilKuthuSongs/Mani Sharma, Shankar Mahadevan - Ada All Thotta Boopathi.mp3"
+Jan 05 15:27 : player: played "TamilKuthuSongs/Anirudh Ravichander, Dhanush, Chinna Ponnu, Magizhini Manimaaran - #Thappa Dhaan Theriyum (From ##Maari##) - Maari's Karuthu#.mp3"
+Jan 05 15:32 : player: played "TamilKuthuSongs/Anirudh Ravichander, Ramya Behara, Sahithi Chaganti - Bimbilikki Pilapi.mp3"
+Jan 05 15:36 : player: played "TamilKuthuSongs/Tippu, Anuradha Sriram - Elanthapalam Elanthapalam.mp3"
+Jan 05 15:40 : player: played "TamilKuthuSongs/A.R. Rahman, Madhushree - Mallipoo.mp3"
+Jan 05 15:44 : player: played "TamilKuthuSongs/A.R. Rahman, A. R. Reihana, Tippu, Nikhita Gandhi - #Saarattu Vandiyila (From ##Kaatru Veliyidai##)#.mp3"
+Jan 05 15:48 : player: played "TamilKuthuSongs/Anirudh Ravichander - #Senjitaley (From ##Remo##)#.mp3"
+Jan 05 20:48 : config: option 'buffer_time' on line 18 was not recognized
+Jan 05 21:32 : config: option 'buffer_time' on line 18 was not recognized
+Jan 05 21:33 : player: played "TamilKuthuSongs/Anirudh Ravichander - #Senjitaley (From ##Remo##)#.mp3"
+Jan 05 22:51 : player: played "TamilKuthuSongs/Vijay Antony, Krishh, Suchitra - Chinna Thamarai.mp3"
+Jan 05 22:52 : player: played "TamilKuthuSongs/Sichith, Dharshana - Karuppu Perazhaga.mp3"
+Jan 06 04:03 : player: played "TamilKuthuSongs/Sichith, Dharshana - Karuppu Perazhaga.mp3"
+Jan 06 21:05 : config: option 'buffer_time' on line 18 was not recognized
+Jan 06 23:46 : player: played "TamilKuthuSongs/Sichith, Dharshana - Karuppu Perazhaga.mp3"
+Jan 07 10:06 : config: option 'buffer_time' on line 18 was not recognized
+Jan 07 10:12 : player: played "TamilKuthuSongs/Sichith, Dharshana - Karuppu Perazhaga.mp3"
+Jan 07 14:58 : config: option 'buffer_time' on line 18 was not recognized
+Jan 07 16:37 : player: played "TamilKuthuSongs/Sichith, Dharshana - Karuppu Perazhaga.mp3"
+Jan 07 17:08 : config: option 'buffer_time' on line 18 was not recognized
+Jan 07 17:40 : player: played "TamilKuthuSongs/Sichith, Dharshana - Karuppu Perazhaga.mp3"
+Jan 07 17:44 : config: option 'buffer_time' on line 18 was not recognized
+Jan 07 20:57 : player: played "TamilKuthuSongs/Sichith, Dharshana - Karuppu Perazhaga.mp3"
+Jan 07 20:58 : config: option 'buffer_time' on line 18 was not recognized
+Jan 07 21:05 : player: played "TamilKuthuSongs/Sichith, Dharshana - Karuppu Perazhaga.mp3"
+Jan 07 21:09 : player: played "TamilKuthuSongs/Dhanush, Vivek - Mervin - #Chill Bro (From ##Pattas##)#.mp3"
+Jan 07 21:13 : player: played "TamilKuthuSongs/Anirudh Ravichander, Ravi G - Porkanda Singam.mp3"
+Jan 07 21:17 : player: played "TamilKuthuSongs/Sam C.S., Mukesh, M.L.R. Karthikeyan, Guna - #Tasakku Tasakku - From ##Vikram Vedha###.mp3"
+Jan 07 21:21 : player: played "TamilKuthuSongs/Yuvan Shankar Raja - Oh Shala Oh Shala.mp3"
+Jan 07 21:28 : player: played "TamilKuthuSongs/G. V. Prakash - Yathe Yathe.mp3"
+Jan 07 21:31 : player: played "TamilKuthuSongs/Hiphop Tamizha, Gana Balachandar, Gana Ulagam Dharani, Arivu - #Single Pasanga - From ##Natpe Thunai###.mp3"
+Jan 07 21:35 : player: played "TamilKuthuSongs/Anirudh Ravichander - Vikram - Title Track.mp3"
+Jan 07 21:40 : player: played "TamilKuthuSongs/Shankar Mahadevan, Radhika - #Sarakku Vechirukken (From ##Shajahaan##)#.mp3"
+Jan 07 21:41 : player: played "TamilKuthuSongs/Anirudh Ravichander - #Narasimha Theme (From ##Jailer##)#.mp3"
+Jan 07 21:46 : player: played "TamilKuthuSongs/Mano, Swarnalatha - Mukkala Mukkabla.mp3"
+Jan 07 21:49 : player: played "TamilKuthuSongs/Anirudh Ravichander, Dhvani Bhanushali, Tanishk Bagchi - Kadhal Psycho.mp3"
+Jan 07 21:54 : player: played "TamilKuthuSongs/A.R. Rahman, Anirudh Ravichander, Neeti Mohan - Mersalaayitten.mp3"
+Jan 07 21:59 : player: played "TamilKuthuSongs/Jassie Gift - Layyavathiye.mp3"
+Jan 07 22:03 : player: played "TamilKuthuSongs/A.R. Rahman, Thalapathy Vijay - #Verithanam (From ##Bigil##)#.mp3"
+Jan 07 22:05 : player: played "TamilKuthuSongs/Dhanush, Anirudh Ravichander - #Mayakkama Kalakkama (From ##Thiruchitrambalam##)#.mp3"
+Jan 07 22:07 : player: played "TamilKuthuSongs/Anirudh Ravichander - Master the Blaster - Background Score.mp3"
+Jan 07 22:10 : player: played "TamilKuthuSongs/Hiphop Tamizha - #Paisa Note (From ##Comali##)#.mp3"
+Jan 07 22:14 : player: played "TamilKuthuSongs/Anirudh Ravichander, Badshah - #Aaluma Doluma (From ##Vedalam##)#.mp3"
+Jan 07 22:19 : player: played "TamilKuthuSongs/S. P. Balasubrahmanyam, K. S. Chithra - Sikki Mukk.mp3"
+Jan 07 22:24 : player: played "TamilKuthuSongs/Harris Jayaraj, Tippu, Krishh, Haricharan, Sayanora Philip - Gala Gala.mp3"
+Jan 07 22:28 : player: played "TamilKuthuSongs/G. V. Prakash, Velmurugan - Otha Sollaala.mp3"
+Jan 07 22:32 : player: played "TamilKuthuSongs/Thaman S, Silambarasan TR, Roshini JKV - Mangalyam.mp3"
+Jan 07 22:37 : player: played "TamilKuthuSongs/Rahul Nambiar, Thaman S, Mahathi - #Neduvaali (From ##Osthe##)#.mp3"
+Jan 07 22:40 : player: played "TamilKuthuSongs/Anirudh Ravichander, Nadisha Thomas, MALIII - #Come On Girls (From ##3 [Tamil]##) - The Celebration of Love#.mp3"
+Jan 07 22:45 : player: played "TamilKuthuSongs/Sam C.S. - #Maane Unna (From ##Rajavamsam##)#.mp3"
+Jan 07 22:49 : player: played "TamilKuthuSongs/A.R. Rahman, Aditya Rao, Aaryan Dinesh Kanagaratnam, Sri Rascol - Showkali.mp3"
+Jan 07 22:53 : player: played "TamilKuthuSongs/Mathan, Naven - Somberi.mp3"
+Jan 08 12:25 : config: option 'buffer_time' on line 18 was not recognized
+Jan 08 12:25 : output: Failed to play on "Pipewire audio server" (pipewire): no target node available
+Jan 08 12:26 : player: played "TamilKuthuSongs/Mathan, Naven - Somberi.mp3"
+Jan 08 12:29 : player: played "TamilKuthuSongs/Shankar Mahadevan - Padichi Parthen.mp3"
+Jan 08 15:04 : config: option 'buffer_time' on line 18 was not recognized
+Jan 08 21:04 : config: option 'buffer_time' on line 18 was not recognized
+Jan 09 16:20 : config: option 'buffer_time' on line 18 was not recognized
+Jan 09 16:30 : config: option 'buffer_time' on line 18 was not recognized
+Jan 09 17:07 : config: option 'buffer_time' on line 18 was not recognized
+Jan 09 21:06 : config: option 'buffer_time' on line 18 was not recognized
+Jan 10 17:08 : config: option 'buffer_time' on line 18 was not recognized
+Jan 10 21:04 : config: option 'buffer_time' on line 18 was not recognized
+Jan 10 21:16 : player: played "PinterestPlaylist/Nirvana - All Apologies.mp3"
+Jan 10 21:20 : player: played "PinterestPlaylist/Lana Del Rey - Salvatore.mp3"
+Jan 10 21:25 : player: played "PinterestPlaylist/Cavetown - Talk to Me.mp3"
+Jan 10 21:30 : player: played "PinterestPlaylist/Mazzy Star - Fade Into You.mp3"
+Jan 10 21:37 : player: played "PinterestPlaylist/Sonic Youth - Teen Age Riot (Album Version).mp3"
+Jan 10 21:41 : player: played "PinterestPlaylist/Radiohead - Karma Police.mp3"
+Jan 10 21:44 : player: played "PinterestPlaylist/Billy Lemos, Omar Apollo, Maxwell Young - 12#34 AM.mp3"
+Jan 10 21:47 : player: played "PinterestPlaylist/The Beatles - Penny Lane - Remastered 2015.mp3"
+Jan 10 21:51 : player: played "PinterestPlaylist/Hozier - Would That I.mp3"
+Jan 10 21:57 : player: played "PinterestPlaylist/Elton John - Tiny Dancer.mp3"
+Jan 10 21:58 : player: played "PinterestPlaylist/Duster - Me and the Birds.mp3"
+Jan 11 08:35 : config: option 'buffer_time' on line 18 was not recognized
+Jan 11 12:23 : config: option 'buffer_time' on line 18 was not recognized
+Jan 11 12:41 : player: played "AangilaPadalgal/J. Cole, Cults, Amber Coffman - She Knows (feat. Amber Coffman & Cults).mp3"
+Jan 11 12:41 : exception: No such directory
+Jan 11 12:46 : player: played "TamilKuthuSongs/Santhosh Narayanan, Dhanush, Dhee - Rakita Rakita Rakita.mp3"
+Jan 11 12:47 : player: played "TamilKuthuSongs/Gana Bala - #Kakidha Kappal - From ##Madras###.mp3"
+Jan 11 12:58 : player: played "TamilKuthuSongs/Silambarasan,Yuvan Shankar Raja - Evan Di Una Pethan.mp3"
+Jan 11 13:02 : player: played "TamilKuthuSongs/Yuvan Shankar Raja, Silambarasan TR, Suchitra - En Aasai Mythiliye.mp3"
+Jan 11 13:06 : player: played "TamilKuthuSongs/D. Imman, Mukesh, SUVI, Emcee Jesz - Odi Odi Vilayada.mp3"
+Jan 11 13:10 : player: played "TamilKuthuSongs/Anirudh Ravichander, Super Subu - #Hukum - Thalaivar Alappara (From ##Jailer##)#.mp3"
+Jan 11 13:14 : player: played "TamilKuthuSongs/K, M.L.R. Karthikeyan, Raqueeb Aalam - #Kannitheevu Ponna (From ##Yuddham Sei##)#.mp3"
+Jan 11 13:18 : player: played "TamilKuthuSongs/Aslam, Ember rap - Ponmagal Vandaal.mp3"
+Jan 11 13:22 : player: played "TamilKuthuSongs/Gopi Sundar, Vijay Yesudas, Divya S Menon, Sachin Warrier - Thodakkam Mangalyam.mp3"
+Jan 11 13:26 : player: played "TamilKuthuSongs/Silambarasan TR, Yuvan Shankar Raja - Evan Di Una Pethan.mp3"
+Jan 11 13:28 : config: option 'buffer_time' on line 18 was not recognized
+Jan 11 13:28 : output: Failed to play on "Pipewire audio server" (pipewire): no target node available
+Jan 11 13:30 : player: played "TamilKuthuSongs/Silambarasan TR, Yuvan Shankar Raja - Evan Di Una Pethan.mp3"
+Jan 11 13:32 : player: played "TamilKuthuSongs/DJ Snake, Dhee, Arivu, Santhosh Narayanan - Enjoy Enjaami - Spotify Singles (with Dhee feat. Arivu & Santhosh Narayanan).mp3"
+Jan 11 13:36 : player: played "TamilKuthuSongs/D. Imman, Jyoti Nooran, Arvind Swamy - Kooduvittu Koodu.mp3"
+Jan 11 15:23 : player: played "TamilKuthuSongs/D. Imman, Jyoti Nooran, Arvind Swamy - Kooduvittu Koodu.mp3"
+Jan 11 15:27 : player: played "TamilKuthuSongs/Vishal Chandrashekhar, Santhosh Narayanan, Sean Roldan - Red Road-U.mp3"
+Jan 11 15:30 : player: played "TamilKuthuSongs/Anirudh Ravichander, Rokesh - #Jalabulajangu (From ##Don##)#.mp3"
+Jan 11 15:34 : player: played "TamilKuthuSongs/Dhanush, Anirudh Ravichander - #Thaai Kelavi (From ##Thiruchitrambalam##)#.mp3"
+Jan 11 15:39 : player: played "TamilKuthuSongs/A.R. Rahman, Yuvan Shankar Raja - Kadal Raasa Naan.mp3"
+Jan 11 15:43 : player: played "TamilKuthuSongs/Anirudh Ravichander, Dhanush - What a Karvaad (The Philosophy of Raghuvaran).mp3"
+Jan 11 15:46 : player: played "TamilKuthuSongs/Vineeth Sreenivasan, Renjith Unni - Entammede Jimikki Kammal.mp3"
+Jan 11 15:49 : player: played "TamilKuthuSongs/Anirudh Ravichander, Super Subu - Hukum - Thalaivar Alappara.mp3"
+Jan 11 15:52 : player: played "TamilKuthuSongs/Vijay - Vaadi Vaadi.mp3"
+Jan 11 15:56 : player: played "TamilKuthuSongs/Rahul Nambiar, Thaman S, Mahathi - #Neduvaali (From ##Osthe##)#.mp3"
+Jan 11 16:00 : player: played "TamilKuthuSongs/Anirudh Ravichander, Anthony Daasan - #Dippam Dappam (From ##Kaathuvaakula Rendu Kaadhal##)#.mp3"
+Jan 11 16:04 : player: played "TamilKuthuSongs/Santhosh Narayanan, Navz-47, SVDP - Neeye Oli.mp3"
+Jan 11 16:07 : player: played "TamilKuthuSongs/Anirudh Ravichander, Jonita Gandhi - #Private Party (From ##Don##)#.mp3"
+Jan 11 16:15 : player: played "TamilKuthuSongs/Ranjith Govind - Naan Romba.mp3"
+Jan 11 16:17 : config: option 'buffer_time' on line 18 was not recognized
+Jan 11 16:17 : output: Failed to play on "Pipewire audio server" (pipewire): no target node available
+Jan 11 16:18 : player: played "TamilKuthuSongs/Ranjith Govind - Naan Romba.mp3"
+Jan 11 16:19 : player: played "TamilKuthuSongs/Myskkin - Kanadhasan Karaikudi.mp3"
+Jan 11 20:10 : config: option 'buffer_time' on line 18 was not recognized
+Jan 12 13:59 : config: option 'buffer_time' on line 18 was not recognized
+Jan 12 14:36 : player: played "TamilKuthuSongs/Jakes Bejoy, Asal Kolaar, Dabzee, Roll Rida, Resmi Sateesh - Kotha Raja.mp3"
+Jan 12 14:40 : player: played "TamilKuthuSongs/Yuvan Shankar Raja, Sid Sriram - #Kanja Poovu Kannala (From ##Viruman##)#.mp3"
+Jan 12 14:44 : player: played "TamilKuthuSongs/G. V. Prakash, Velmurugan - Otha Sollaala.mp3"
+Jan 12 14:48 : player: played "TamilKuthuSongs/Santhosh Narayanan, Durai, ofRO - Rich Rich.mp3"
+Jan 12 14:52 : player: played "TamilKuthuSongs/G. V. Prakash, Dhee - #Kaattu Payale (From ##Soorarai Pottru##)#.mp3"
+Jan 12 14:56 : player: played "TamilKuthuSongs/Sundar C. Babu, Velmurugan - Aadunga Da.mp3"
+Jan 12 16:16 : player: played "TamilKuthuSongs/Hiphop Tamizha, Kaushik Krish - #Kadhalikathey - From ##Imaikkaa Nodigal###.mp3"
+Jan 12 16:16 : player: played "TamilKuthuSongs/Hiphop Tamizha, Kaushik Krish - #Kadhalikathey - From ##Imaikkaa Nodigal###.mp3"
+Jan 12 16:16 : exception: Not playing
+Jan 12 16:16 : exception: Not playing
+Jan 12 16:16 : exception: Not playing
+Jan 12 16:22 : player: played "TamilKuthuSongs/Hiphop Tamizha - IPhone 6 Nee Yendral.mp3"
+Jan 12 16:27 : player: played "TamilKuthuSongs/A.R. Rahman, Anirudh Ravichander, Neeti Mohan - Mersalaayitten.mp3"
+Jan 12 16:31 : player: played "TamilKuthuSongs/G. V. Prakash, Dhanush, Aishwarya R Dhanush, Andrea Jeremiah - Un Mela Aasadhaan.mp3"
+Jan 12 20:37 : config: option 'buffer_time' on line 18 was not recognized
+Jan 12 20:37 : output: Failed to play on "Pipewire audio server" (pipewire): no target node available
+Jan 12 20:38 : player: played "TamilKuthuSongs/G. V. Prakash, Dhanush, Aishwarya R Dhanush, Andrea Jeremiah - Un Mela Aasadhaan.mp3"
+Jan 12 20:39 : player: played "TamilKuthuSongs/Silambarasan,Yuvan Shankar Raja - Evan Di Una Pethan.mp3"
+Jan 13 07:44 : config: option 'buffer_time' on line 18 was not recognized
+Jan 13 08:44 : player: played "TamilKuthuSongs/S. P. Balasubrahmanyam, K. S. Chithra - #Manasa Madichi (From ##Kannupada Poguthaiya##)#.mp3"
+Jan 13 08:49 : player: played "TamilKuthuSongs/Mani Sharma, Shankar Mahadevan - Mambazhamam Mambazham.mp3"
+Jan 13 08:53 : player: played "TamilKuthuSongs/Sathyaprakash, VM Mahalingam, Nakul Abhyankar - Chola Chola.mp3"
+Jan 13 08:58 : player: played "TamilKuthuSongs/N.R. Raghunanthan, Velmurugan, Aalaap Raju - Edhukku Machan.mp3"
+Jan 13 09:03 : player: played "TamilKuthuSongs/Anirudh Ravichander, Dhanush - #Nijamellam Maranthupochu (From ##Ethir Neechal##)#.mp3"
+Jan 13 09:07 : player: played "TamilKuthuSongs/Yuvan Shankar Raja, Sid Sriram - #Kanja Poovu Kannala (From ##Viruman##)#.mp3"
+Jan 13 09:14 : player: played "TamilKuthuSongs/Udit Narayan - #Vaadiamma (From ##Thirumalai##)#.mp3"
+Jan 13 09:15 : player: played "TamilKuthuSongs/Sivam, Sam C.S. - Karuppu Vellai.mp3"
+Jan 13 09:17 : player: played "TamilKuthuSongs/Thalapathy Vijay, M.M.Manasi, Thaman S - #Ranjithame (From ##Varisu##)#.mp3"
+Jan 13 20:22 : config: option 'buffer_time' on line 18 was not recognized
+Jan 13 20:22 : output: Failed to play on "Pipewire audio server" (pipewire): no target node available
+Jan 13 20:23 : player: played "TamilKuthuSongs/Thalapathy Vijay, M.M.Manasi, Thaman S - #Ranjithame (From ##Varisu##)#.mp3"
+Jan 13 20:27 : player: played "Yuvan/Biriyani (Original Motion Picture Soundtrack) CD 1 TRACK 2 (.mp3"
+Jan 13 20:32 : player: played "Yuvan/Voice of Yuvanshankar Raja, Vol. 2 CD 1 TRACK 7 (320).mp3"
+Jan 13 20:34 : player: played "Yuvan/Eh Nanbane Kopam [Masstamilan.In]-.mp3"
+Jan 14 09:32 : config: option 'buffer_time' on line 18 was not recognized
+Jan 14 12:08 : config: option 'buffer_time' on line 18 was not recognized

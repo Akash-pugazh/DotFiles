@@ -11,6 +11,7 @@ application/x-extension-xhtml=userapp-Firefox-0JO4F2.desktop
 application/x-extension-xht=userapp-Firefox-0JO4F2.desktop
 application/x-zerosize=code.desktop
 application/vnd.appimage=gcr-prompter.desktop
+x-scheme-handler/postman=Postman.desktop
 
 [Added Associations]
 x-scheme-handler/http=userapp-Firefox-0JO4F2.desktop;
